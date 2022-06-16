@@ -1,2 +1,5 @@
 # hello-word
-my firts repository
+
+my firts repository on GitHub
+
+:coffee: <3
